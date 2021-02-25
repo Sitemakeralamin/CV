@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    width: 960px;
+    margin: 0 auto;
+}
+.head{
+    width: 960px;
+    height: 200px;
+    background-color: bisque;
+        
+}
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+     float: left;
+}
+.text1{
+    text-align: center;
+   
+}
+.text1 h1{
+   
+    padding: 10px;
+    font-family:sans-serif;
+        
+}
+.text1 p{
+  
+    font-size: 20px;
+    font-family:sans-serif;
+}
+
+.content{
+    width: 960px;
+    height: 0 auto;
+    background-color: aqua;
+}
+
+.about{
+   width: 470px;
+    padding: 10px;
+     
+}
+
+.worksection{
+    width: 470px;
+    padding: 10px;
+   
+}
+.work{
+    float: left;
+}
